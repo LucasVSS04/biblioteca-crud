@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "000000000000000000000065"
+    },
+    "nome": "João Silva",
+    "email": "joao@example.com",
+    "telefone": "(00) 00000-0001",
+    "matricula": "20260015"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000066"
+    },
+    "nome": "Maria Souza",
+    "email": "maria@example.com",
+    "telefone": "(00) 00000-0002",
+    "matricula": "20260016"
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000067"
+    },
+    "nome": "Pedro Santos",
+    "email": "pedro@example.com",
+    "telefone": "(00) 00000-0003",
+    "matricula": "20260017"
+  }
+]
